@@ -1,0 +1,7 @@
+/* remove blue on navabaroutline */
+.navbar-brand{
+  cursor: pointer;
+  outline: none;
+  font-weight: 700;
+  font-style: italic;
+}

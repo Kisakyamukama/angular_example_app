@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Niramit:400,500i,700i');
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+QingKe+HuangYou');
+
+.pages{
+  padding-top:54px; /* add space between the navbar and home */
+}
+/* declare font globally */
+app-root{
+  /* font-family:Niramit; */
+  font-family: Srisakdi;
+}
+
+h1{
+  font-weight: 500;
+}
